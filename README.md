@@ -1,14 +1,16 @@
 # Hello, I'm Abel Tadesse 👋
 
-I'm a **Front-End Developer** and a **Computer Science Student** with a passion for **Machine Learning**. 
+I'm a **Front-End Developer** and a **Computer Science Student** 
 
 ## 🚀 Skills
+-Frontend dev
 - HTML, CSS, JavaScript
-- Python, TensorFlow, PyTorch
+- Python, java
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning Techniques
-- Data Visualization
+- Backend dev
+- Fullstack web development
+- 
 
 ## 📫 How to reach me
 - [Telegram](@KADT6)
