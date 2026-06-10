@@ -1,24 +1,82 @@
-# Hello, I'm Abel Tadesse 👋
+# Hi, I'm Abela 👋
 
-I'm a **Front-End Developer** and a **Computer Science Student** 
+## Software Engineer | Data Science Enthusiast | AI & Code Quality Explorer
 
-## 🚀 Skills
--Frontend dev
-- HTML, CSS, JavaScript
-- Python, java
+Computer Science and Engineering student passionate about building software, analyzing data, and improving AI systems through rigorous technical evaluation.
 
-## 🌱 Currently Learning
-- Backend dev
-- Fullstack web development
-- 
+I enjoy solving challenging problems, developing practical software solutions, and learning how large-scale systems are designed, tested, and maintained.
 
-## 📫 How to reach me
-- [Telegram](@KADT6)
-- [Email](at6796629@gmail.com)
+## Technical Skills
 
+### Languages
 
+* Python
+* Java
+* JavaScript
+* SQL
+* C++
 
-<!---
-Abel-et/Abel-et is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data & AI
+
+* Data Analysis
+* Machine Learning
+* Customer Segmentation
+* Information Retrieval
+* Exploratory Data Analysis (EDA)
+
+### Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* REST APIs
+* Database Design
+* Debugging & Testing
+
+### Tools
+
+* Git & GitHub
+* Linux
+* PostgreSQL
+* VS Code
+
+## Featured Projects
+
+### Customer Segmentation Analysis
+
+Machine learning project that groups customers based on behavioral patterns using clustering algorithms.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
+
+### Document Search Engine
+
+Information retrieval system implementing TF-IDF, inverted indexing, and cosine similarity.
+
+**Tech Stack:** Python, Flask
+
+### Nib Project Portal
+
+Full-stack project management platform.
+
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL
+
+## Current Focus
+
+* Software Engineering
+* AI Evaluation
+* Automated Testing
+* Data Science
+* Machine Learning
+* Open Source Contributions
+
+## GitHub Goals
+
+* Build impactful software projects
+* Contribute to open-source projects
+* Improve software quality and testing skills
+* Explore AI and large language model evaluation
+
+## Contact
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+LinkedIn: linkedin.com/in/your-profile
