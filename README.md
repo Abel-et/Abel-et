@@ -77,6 +77,6 @@ Full-stack project management platform.
 
 ## Contact
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: at6796629@gmail.com
 
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn:https://www.linkedin.com/in/abel-et/
