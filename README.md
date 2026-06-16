@@ -1,7 +1,6 @@
 # Hi, I'm Abela 👋
 
-## Software Engineer | Data Science Enthusiast | AI & Code Quality Explorer
-
+## Software Engineer | Data Science Enthusiast 
 Computer Science and Engineering student passionate about building software, analyzing data, and improving AI systems through rigorous technical evaluation.
 
 I enjoy solving challenging problems, developing practical software solutions, and learning how large-scale systems are designed, tested, and maintained.
