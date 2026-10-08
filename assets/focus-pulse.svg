@@ -1,0 +1,18 @@
+<svg width="520" height="34" viewBox="0 0 520 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Current Focus Animation</title>
+  <desc id="desc">A subtle animated line with three labeled milestones: reliable systems, data practice, and AI evaluation.</desc>
+  <rect width="520" height="34" rx="8" fill="#0f172a"/>
+  <line x1="30" y1="17" x2="490" y2="17" stroke="#334155" stroke-width="2"/>
+  <circle cx="30" cy="17" r="4" fill="#60A5FA">
+    <animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="17" r="4" fill="#60A5FA">
+    <animate attributeName="r" values="4;6;4" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="490" cy="17" r="4" fill="#60A5FA">
+    <animate attributeName="r" values="4;6;4" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="30" y="30" fill="#BFDBFE" font-size="10" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">Reliable Systems</text>
+  <text x="220" y="30" fill="#BFDBFE" font-size="10" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">Data Practice</text>
+  <text x="434" y="30" fill="#BFDBFE" font-size="10" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">AI Evaluation</text>
+</svg>
