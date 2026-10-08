@@ -1,81 +1,53 @@
-# Hi, I'm Abel 👋
+# Abel Tadesse
 
-## Software Engineer | Data Science Enthusiast 
-Computer Science and Engineering student passionate about building software, analyzing data, and improving AI systems through rigorous technical evaluation.
+**Software Engineer • AI/ML Builder • Backend & Mobile Developer**
 
-I enjoy solving challenging problems, developing practical software solutions, and learning how large-scale systems are designed, tested, and maintained.
+Computer Science and Engineering student building practical systems across backend engineering, mobile development, data analysis, and machine learning.
 
-## Technical Skills
+## What I Build
 
-### Languages
+- Backend and full-stack applications focused on real business workflows
+- Flutter mobile apps using clean architecture and state management patterns
+- Data and ML projects for search, segmentation, and decision support
+- Algorithm/problem-solving repositories to strengthen engineering fundamentals
 
-* Python
-* Java
-* JavaScript
-* SQL
-* C++
+## Technologies
 
-### Data & AI
-
-* Data Analysis
-* Machine Learning
-* Customer Segmentation
-* Information Retrieval
-* Exploratory Data Analysis (EDA)
-
-### Software Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* REST APIs
-* Database Design
-* Debugging & Testing
-
-### Tools
-
-* Git & GitHub
-* Linux
-* PostgreSQL
-* VS Code
+- **Languages:** Python, TypeScript, JavaScript, Dart, SQL, Java, C++
+- **Backend & Data:** Node.js, Express.js, REST APIs, PostgreSQL, Prisma, Flask, Pandas, NumPy, Matplotlib
+- **Mobile:** Flutter, BLoC, Hive, Clean Architecture
+- **Tools:** Git, GitHub, Linux, VS Code
 
 ## Featured Projects
 
-### Customer Segmentation Analysis
-
-Machine learning project that groups customers based on behavioral patterns using clustering algorithms.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
-
-### Document Search Engine
-
-Information retrieval system implementing TF-IDF, inverted indexing, and cosine similarity.
-
-**Tech Stack:** Python, Flask
-
-### Nib Project Portal
-
-Full-stack project management platform.
-
-**Tech Stack:** React, Node.js, Express.js, PostgreSQL
+- [Abuqelemsis Stock Management System](https://github.com/Abel-et/Abuqelemsis-Stock-Management-System)  
+  ERP/POS system for inventory, sales, purchasing, and financial tracking.  
+  **Tech:** TypeScript, React, Node.js, Express.js, PostgreSQL, Prisma
+- [Flutter Expense Tracker](https://github.com/Abel-et/flutter-expense-tracker)  
+  Mobile expense tracker built to apply Clean Architecture, BLoC, Hive, and CRUD workflows.  
+  **Tech:** Dart, Flutter, BLoC, Hive
+- [Document Search Engine](https://github.com/Abel-et/Document---Search---Engine)  
+  Flask-based document retrieval app using TF-IDF ranking and corpus statistics.  
+  **Tech:** Python, Flask, Information Retrieval
+- [Customer Segmentation Analysis](https://github.com/Abel-et/customer-segmentation-analysis)  
+  Behavioral analysis project using feature engineering and segmentation insights on mall customer data.  
+  **Tech:** Python, Pandas, Matplotlib
+- [A2SV Problems Solutions](https://github.com/Abel-et/A2SV-Problems-Solutions)  
+  Collection of accepted coding problem solutions with clear Python implementations.  
+  **Tech:** Python, Algorithms
 
 ## Current Focus
 
-* Software Engineering
-* AI Evaluation
-* Automated Testing
-* Data Science
-* Machine Learning
-* Open Source Contributions
+- Building production-ready backend and business systems
+- Improving ML and AI evaluation workflows with stronger testing habits
+- Deepening mobile engineering skills with Flutter architecture patterns
 
-## GitHub Goals
+## Engineering Mindset
 
-* Build impactful software projects
-* Contribute to open-source projects
-* Improve software quality and testing skills
-* Explore AI and large language model evaluation
+I enjoy solving unfamiliar problems, learning deeply, and turning ideas into reliable software that people can actually use.
 
 ## Contact
 
-Email: at6796629@gmail.com
-
-LinkedIn:https://www.linkedin.com/in/abel-et/
+- **GitHub:** [github.com/Abel-et](https://github.com/Abel-et)
+- **LinkedIn:** [linkedin.com/in/abel-et](https://www.linkedin.com/in/abel-et/)
+- **Email:** [at6796629@gmail.com](mailto:at6796629@gmail.com)
