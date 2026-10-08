@@ -1,4 +1,4 @@
-# Hi, I'm Abela 👋
+# Hi, I'm Abel 👋
 
 ## Software Engineer | Data Science Enthusiast 
 Computer Science and Engineering student passionate about building software, analyzing data, and improving AI systems through rigorous technical evaluation.
